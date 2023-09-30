@@ -72,3 +72,4 @@ while True:
         os.system('cls')  # Usado para limpar o terminal
     if resposta != 1 and resposta != 2:
         break
+# fim
