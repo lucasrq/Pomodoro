@@ -1,4 +1,4 @@
-Claro, aqui está um README básico para o código do Pomodoro que você compartilhou:
+
 
 # Pomodoro Timer em Python
 
