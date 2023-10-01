@@ -21,7 +21,7 @@ while True:
     os.system('cls')  # Usado para limpar o terminal
     if resposta == 1:  # caso a resposta seja igual a 1
         time.sleep(1)  # o tempo de atraso para o proximo comando
-        print("sua resposta foi Puusa", resposta)
+        print("sua resposta foi Pausa", resposta)
         time.sleep(2)
         print("Pronto para começar?")
         time.sleep(2)
