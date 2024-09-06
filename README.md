@@ -29,7 +29,7 @@ Para executar o programa, siga estas etapas:
 3. Execute o programa digitando:
 
 ```bash
-python pomodoro_timer.py
+python Pomodoro.py
 ```
 
 4. O programa começará a ser executado e você verá um menu com as seguintes opções:
